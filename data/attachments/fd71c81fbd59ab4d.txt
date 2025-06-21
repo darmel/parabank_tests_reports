@@ -1,0 +1,3 @@
+[32mINFO    [0m conftest:conftest.py:15 nueva conexion con base de datos
+[32mINFO    [0m conftest:conftest.py:23 Nuevo cursor
+[32mINFO    [0m test_database:test_database.py:17 el numero que obtengo de la query: 4

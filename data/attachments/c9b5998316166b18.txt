@@ -1,0 +1,7 @@
+[INFO] url: http://localhost:8081/parabank/services/bank/login/testuser/password
+[INFO] customer Id obtenida 12545
+[INFO] cantidad de cuentas: 57
+[INFO] cantidad de cuentas para transfer: 57
+[INFO] Tengo cuentas suficientes para transfer
+[INFO] id1 13677 y id2 13788
+[INFO] de veulta en el test id1 13677 y id2 13788

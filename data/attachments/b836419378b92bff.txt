@@ -1,0 +1,2 @@
+[INFO] url: http://localhost:8081/parabank/services/bank/login/testuser/password
+[INFO] customer Id obtenida 12545

@@ -1,0 +1,2 @@
+
+{'balance': -2184.5, 'customerId': 12545, 'id': 13677, 'type': 'CHECKING'}

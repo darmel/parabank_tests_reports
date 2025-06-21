@@ -1,0 +1,10 @@
+
+{   'address': {   'city': 'capital',
+                   'state': 'Cordoba',
+                   'street': 'colon 5110',
+                   'zipCode': '5000'},
+    'firstName': 'juan',
+    'id': 12545,
+    'lastName': 'lopez',
+    'phoneNumber': '03514567890',
+    'ssn': '34567890'}
