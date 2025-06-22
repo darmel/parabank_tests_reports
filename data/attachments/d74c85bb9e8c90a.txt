@@ -1,0 +1,8 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/var/jenkins_home/.wdm/drivers/chromedriver/linux64/136.0.7103.113/chromedriver-linux64/chromedriver] found in cache
+INFO     parabank_front.front_utils.fake_data_generator:fake_data_generator.py:27 customer generado: Mora Sanchez. Username: john
+INFO     parabank_front.front_utils.fake_data_generator:fake_data_generator.py:41 complete customer generado: {'first_name': 'Mora', 'last_name': 'Sanchez', 'address': 'Camino Cordoba N 339', 'city': 'Bahia Blanca', 'state': 'La Pampa', 'zip_code': '50002828', 'phone': '+54 15 2527 5559', 'ssn': '134-47-0973', 'username': 'john', 'password': 'password'}
+INFO     test_login:test_login.py:107 titulo de la pagina: ParaBank | Register for Free Online Account Access
+INFO     test_login:test_login.py:113 mensaje de error: This username already exists.

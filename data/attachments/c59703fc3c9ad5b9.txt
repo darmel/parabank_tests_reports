@@ -1,0 +1,3 @@
+INFO     conftest:conftest.py:16 nueva conexion con base de datos
+INFO     conftest:conftest.py:24 Nuevo cursor
+INFO     test_database:test_database.py:32 columnas: {'ZIP_CODE', 'SSN', 'LAST_NAME', 'ADDRESS', 'PASSWORD', 'FIRST_NAME', 'ID', 'STATE', 'USERNAME', 'PHONE_NUMBER', 'CITY'}
