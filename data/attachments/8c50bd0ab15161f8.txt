@@ -1,0 +1,8 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/var/jenkins_home/.wdm/drivers/chromedriver/linux64/136.0.7103.113/chromedriver-linux64/chromedriver] found in cache
+INFO     parabank_front.front_utils.fake_data_generator:fake_data_generator.py:27 customer generado: Paulina Diaz. Username: paulina.diazf07e9d
+INFO     parabank_front.front_utils.fake_data_generator:fake_data_generator.py:41 complete customer generado: {'first_name': 'Paulina', 'last_name': 'Diaz', 'address': 'Avenida Neuquen N 77', 'city': 'Rosario', 'state': 'Formosa', 'zip_code': '35004638', 'phone': '+54 9 3321 5905', 'ssn': '295-88-3247', 'username': 'paulina.diazf07e9d', 'password': 'password'}
+INFO     test_login:test_login.py:88 titulo de la pagina: ParaBank | Register for Free Online Account Access
+INFO     test_login:test_login.py:96 full welcome text: Welcome Paulina Diaz

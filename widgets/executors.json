@@ -1,1 +1,1 @@
-[]
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":80,"buildName":"parabank_API_and_Front #80","buildUrl":"http://localhost:8080/job/parabank_API_and_Front/80/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/parabank_API_and_Front/80/allure"}]

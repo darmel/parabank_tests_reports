@@ -1,0 +1,18 @@
+INFO     conftest:conftest.py:24 Nuevo cursor
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 WebDriver version 136.0.7103.113 selected
+INFO     WDM:logger.py:11 Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/linux64/chromedriver-linux64.zip
+INFO     WDM:logger.py:11 About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/linux64/chromedriver-linux64.zip
+INFO     WDM:logger.py:11 Driver downloading response is 200
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver has been saved in cache [/var/jenkins_home/.wdm/drivers/chromedriver/linux64/136.0.7103.113]
+INFO     parabank_front.front_utils.fake_data_generator:fake_data_generator.py:27 customer generado: Constantino Alvarez. Username: constantino.ec850a
+INFO     parabank_front.front_utils.fake_data_generator:fake_data_generator.py:41 complete customer generado: {'first_name': 'Constantino', 'last_name': 'Alvarez', 'address': 'Avenida 9 N 576', 'city': 'Chilecito', 'state': 'Buenos Aires', 'zip_code': '76005106', 'phone': '+54 9 3246 9730', 'ssn': '823-92-9613', 'username': 'constantino.ec850a', 'password': 'password'}
+INFO     parabank_front.front_utils.new_customer_generation:new_customer_generation.py:14 full welcome text: ParaBank | Customer Created
+INFO     test_database:test_database.py:49 username: constantino.ec850a
+INFO     test_database:test_database.py:50 ID cuenta 1 33768, ID cuenta 2 33879
+INFO     test_database:test_database.py:53 user id: 22424
+INFO     test_database:test_database.py:61 cuenta 1: 33768 y cuenta 2: 33879 en db

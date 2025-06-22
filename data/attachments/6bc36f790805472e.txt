@@ -1,0 +1,10 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/var/jenkins_home/.wdm/drivers/chromedriver/linux64/136.0.7103.113/chromedriver-linux64/chromedriver] found in cache
+INFO     parabank_front.front_utils.fake_data_generator:fake_data_generator.py:27 customer generado: Felipe Ruiz. Username: felipe.ruiz306c75
+INFO     parabank_front.front_utils.fake_data_generator:fake_data_generator.py:41 complete customer generado: {'first_name': 'Felipe', 'last_name': 'Ruiz', 'address': 'Diagonal Misiones N 464', 'city': 'Santa Rosa', 'state': 'Jujuy', 'zip_code': '91039814', 'phone': '+54 9 3565 4835', 'ssn': '528-07-8082', 'username': 'felipe.ruiz306c75', 'password': 'password'}
+INFO     parabank_front.front_utils.new_customer_generation:new_customer_generation.py:14 full welcome text: ParaBank | Customer Created
+INFO     test_login:test_login.py:129 titulo de la pagina: ParaBank | Open Account
+INFO     test_login:test_login.py:132 Id de la 1era ceunta: 34101
+INFO     test_login:test_login.py:138 Id de la cuenta nueva: 34212

@@ -1,0 +1,2 @@
+INFO     conftest:conftest.py:24 Nuevo cursor
+INFO     test_database:test_database.py:32 columnas: {'AMOUNT', 'DATE', 'DESCRIPTION', 'ID', 'ACCOUNT_ID', 'TYPE'}
