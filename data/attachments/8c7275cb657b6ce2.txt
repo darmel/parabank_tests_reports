@@ -1,1 +1,0 @@
-[32mINFO    [0m parabank_API.api_clients.client:client.py:16 url: http://localhost:8081/parabank/services/bank/login/fakeuser/fakepass

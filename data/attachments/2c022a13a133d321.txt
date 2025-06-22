@@ -1,2 +1,0 @@
-INFO     conftest:conftest.py:24 Nuevo cursor
-INFO     test_database:test_database.py:40 el numero que obtengo de la query: 92

@@ -1,3 +1,0 @@
-[INFO] nueva conexion con base de datos
-[INFO] Nuevo cursor
-[INFO] el numero que obtengo de la query: 4

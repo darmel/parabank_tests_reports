@@ -1,1 +1,0 @@
-[INFO] url: http://localhost:8081/parabank/services/bank/login/testuser/password

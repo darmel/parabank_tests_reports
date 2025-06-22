@@ -1,6 +1,0 @@
-[32mINFO    [0m parabank_API.api_clients.client:client.py:16 url: http://localhost:8081/parabank/services/bank/login/testuser/password
-[32mINFO    [0m conftest:conftest.py:26 customer Id obtenida 12545
-[32mINFO    [0m parabank_API.utils.helpers:helpers.py:19 cantidad de cuentas: 56
-[32mINFO    [0m test_parabank:test_parabank.py:71 new account id: 19893
-[32mINFO    [0m parabank_API.utils.helpers:helpers.py:19 cantidad de cuentas: 57
-[32mINFO    [0m parabank_API.tests.assertions.parabank_assertions:parabank_assertions.py:48 ids: [13677, 13788, 13899, 14010, 14121, 14232, 14343, 14454, 14565, 14676, 14787, 14898, 15009, 15120, 15231, 15342, 15453, 15564, 15675, 15786, 15897, 16008, 16119, 16230, 16341, 16452, 16563, 16674, 16785, 16896, 17007, 17118, 17229, 17340, 17451, 17562, 17673, 17784, 17895, 18006, 18117, 18228, 18339, 18450, 18561, 18672, 18783, 18894, 19005, 19116, 19227, 19338, 19449, 19560, 19671, 19782, 19893]

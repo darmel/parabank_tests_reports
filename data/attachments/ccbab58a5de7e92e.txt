@@ -1,7 +1,0 @@
-[32mINFO    [0m parabank_API.api_clients.client:client.py:16 url: http://localhost:8081/parabank/services/bank/login/testuser/password
-[32mINFO    [0m conftest:conftest.py:26 customer Id obtenida 12545
-[32mINFO    [0m parabank_API.utils.helpers:helpers.py:19 cantidad de cuentas: 54
-[32mINFO    [0m conftest:conftest.py:42 cantidad de cuentas para transfer: 54
-[32mINFO    [0m conftest:conftest.py:45 Tengo cuentas suficientes para transfer
-[32mINFO    [0m conftest:conftest.py:48 id1 13677 y id2 13788
-[32mINFO    [0m test_parabank:test_parabank.py:83 de veulta en el test id1 13677 y id2 13788

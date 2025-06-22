@@ -1,0 +1,11 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/var/jenkins_home/.wdm/drivers/chromedriver/linux64/136.0.7103.113/chromedriver-linux64/chromedriver] found in cache
+INFO     parabank_front.front_utils.fake_data_generator:fake_data_generator.py:27 customer generado: Emma Silva. Username: emma.silva8245a7
+INFO     parabank_front.front_utils.fake_data_generator:fake_data_generator.py:41 complete customer generado: {'first_name': 'Emma', 'last_name': 'Silva', 'address': 'Boulevard Neuquen N 820', 'city': 'Chilecito', 'state': 'Santa Fe', 'zip_code': '46003568', 'phone': '+54 9 3825 4793', 'ssn': '498-42-4057', 'username': 'emma.silva8245a7', 'password': 'password'}
+INFO     parabank_front.front_utils.new_customer_generation:new_customer_generation.py:14 full welcome text: ParaBank | Customer Created
+INFO     test_login:test_login.py:149 ID cuenta 1 36987, ID cuenta 2 37098
+INFO     test_login:test_login.py:158 from account: 36987, to account 37098
+INFO     test_login:test_login.py:163 Result title: Transfer Complete!
+INFO     test_login:test_login.py:168 Result: from account: 36987 to account: 37098

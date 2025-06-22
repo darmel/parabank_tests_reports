@@ -1,0 +1,7 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/var/jenkins_home/.wdm/drivers/chromedriver/linux64/136.0.7103.113/chromedriver-linux64/chromedriver] found in cache
+INFO     test_login:test_login.py:185 titulo de pagina HOME: ParaBank | Welcome | Online Banking
+INFO     test_login:test_login.py:187 titulo de pagina OVERVIEW: ParaBank | Accounts Overview
+INFO     test_login:test_login.py:190 Deslogueado. titulo de pagina HOME: ParaBank | Welcome | Online Banking

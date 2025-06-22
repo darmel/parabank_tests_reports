@@ -1,2 +1,0 @@
-
-'Invalid username and/or password'

@@ -1,5 +1,0 @@
-[INFO] ====== WebDriver manager ======
-[INFO] Get LATEST chromedriver version for google-chrome
-[INFO] Get LATEST chromedriver version for google-chrome
-[INFO] Driver [/home/user/.wdm/drivers/chromedriver/linux64/136.0.7103.113/chromedriver-linux64/chromedriver] found in cache
-[INFO] pagina cargada
