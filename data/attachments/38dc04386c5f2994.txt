@@ -1,6 +1,6 @@
 
-[   {'balance': -3200.0, 'customerId': 12212, 'id': 12345, 'type': 'CHECKING'},
-    {'balance': -889.55, 'customerId': 12212, 'id': 12456, 'type': 'CHECKING'},
+[   {'balance': -3350.0, 'customerId': 12212, 'id': 12345, 'type': 'CHECKING'},
+    {'balance': -939.55, 'customerId': 12212, 'id': 12456, 'type': 'CHECKING'},
     {'balance': 100.0, 'customerId': 12212, 'id': 12567, 'type': 'CHECKING'},
     {'balance': -100.0, 'customerId': 12212, 'id': 12678, 'type': 'SAVINGS'},
     {'balance': 100.0, 'customerId': 12212, 'id': 12789, 'type': 'CHECKING'},
@@ -27,4 +27,8 @@
     {'balance': 100.0, 'customerId': 12212, 'id': 29106, 'type': 'SAVINGS'},
     {'balance': 100.0, 'customerId': 12212, 'id': 29994, 'type': 'SAVINGS'},
     {'balance': 100.0, 'customerId': 12212, 'id': 30882, 'type': 'SAVINGS'},
+    {'balance': 100.0, 'customerId': 12212, 'id': 31770, 'type': 'SAVINGS'},
+    {'balance': 100.0, 'customerId': 12212, 'id': 32658, 'type': 'SAVINGS'},
     {'balance': 1351.12, 'customerId': 12212, 'id': 54321, 'type': 'CHECKING'}]
+
+'Successfully transferred $50 from account #12456 to account #12345'
