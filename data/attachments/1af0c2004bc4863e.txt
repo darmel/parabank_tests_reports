@@ -1,6 +1,6 @@
 
-[   {'balance': -5050.0, 'customerId': 12212, 'id': 12345, 'type': 'CHECKING'},
-    {'balance': -2739.55, 'customerId': 12212, 'id': 12456, 'type': 'CHECKING'},
+[   {'balance': -5100.0, 'customerId': 12212, 'id': 12345, 'type': 'CHECKING'},
+    {'balance': -2789.55, 'customerId': 12212, 'id': 12456, 'type': 'CHECKING'},
     {'balance': 100.0, 'customerId': 12212, 'id': 12567, 'type': 'CHECKING'},
     {'balance': -100.0, 'customerId': 12212, 'id': 12678, 'type': 'SAVINGS'},
     {'balance': 100.0, 'customerId': 12212, 'id': 12789, 'type': 'CHECKING'},
@@ -64,4 +64,5 @@
     {'balance': 100.0, 'customerId': 12212, 'id': 61074, 'type': 'SAVINGS'},
     {'balance': 100.0, 'customerId': 12212, 'id': 61962, 'type': 'SAVINGS'},
     {'balance': 100.0, 'customerId': 12212, 'id': 62850, 'type': 'SAVINGS'},
-    {'balance': 100.0, 'customerId': 12212, 'id': 63738, 'type': 'SAVINGS'}]
+    {'balance': 100.0, 'customerId': 12212, 'id': 63738, 'type': 'SAVINGS'},
+    {'balance': 100.0, 'customerId': 12212, 'id': 64626, 'type': 'SAVINGS'}]
